@@ -1,3 +1,4 @@
+# 📌 Business Task
 Cyclistic is a fictional bike-share company operating in Chicago. Since launching its bike-share offering in 2016, the company has grown to operate over 5,800 bicycles distributed across 692 docking stations. Cyclistic offers various types of bikes, including standard bikes, reclining bikes, hand tricycles, and cargo bikes, making it more inclusive for riders with different needs.
 
 Currently, Cyclistic offers three pricing plans: single-ride passes, full-day passes, and annual memberships. Riders who use single or day passes are considered **casual riders**, while those who purchase annual plans are considered **members**. According to Cyclistic’s financial team, annual members generate more consistent and higher revenue for the company compared to casual riders.
